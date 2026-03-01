@@ -132,7 +132,6 @@ meu-jogo/
 ├─ next.config.ts
 └─ tailwind.config.ts
 
-
 ### Salvar no git
 > * adicionar na area de stage
  ```
